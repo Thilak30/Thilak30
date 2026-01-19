@@ -3,7 +3,7 @@
 Innovative Software Engineer and AI/ML enthusiast specializing in Generative AI, RAG pipelines, and agentic workflows. Experienced in building high-performance ML models and computer vision pipelines. Passionate about leveraging cutting-edge technologies like LangChain, LangGraph, and Vector Databases to solve complex problems.<br><br>I'm always open to collaborating on exciting projects, contributing to open-source, and learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilak-r-83701326a) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Thilak30) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavthilak30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilak-r-83701326a) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://thilak-r-portfolio.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavthilak30@gmail.com)
 
 # 💻 Tech Stack:
 
